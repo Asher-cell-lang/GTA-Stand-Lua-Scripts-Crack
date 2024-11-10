@@ -11,7 +11,7 @@
 
 如果有些脑残犯病我不会排除把我自己质量好的Lua发出来
 
-![image](https://github.com/user-attachments/assets/3698d35c-8360-412f-a626-7b27eb86f373)
+![CD9C34B5071C4D7B9FF122A3BFE68749](https://github.com/user-attachments/assets/ffb708ed-66d6-4b4a-96be-4f5014ce260a)
 
 # daidai
 ```sh
@@ -37,20 +37,21 @@
 ```
 就这么点人围着你转🙌🏼
 
-![20241110092241](https://github.com/user-attachments/assets/70fe8eb6-a60e-483c-a754-da0c2c6677f4)
-![code](https://github.com/user-attachments/assets/2b63cbe5-1536-4478-ad19-14f83b6112cc)
+![20241110092241](https://github.com/user-attachments/assets/e077797e-cb7e-4b11-9191-fca709b15023)
+![code4](https://github.com/user-attachments/assets/85286e0c-0a26-4c97-b3a2-737ff6b4376f)
 
 # GT
 加载list之后remove的是gtvipscript.lua你当这玩意是啥啊
 
-![code2](https://github.com/user-attachments/assets/0429e7f0-effb-4ee3-ac44-153c58921142)
+![code2](https://github.com/user-attachments/assets/697ae20b-da99-4161-864f-b7d9ec3af214)
 
 还是开户大手子呢，谁不会啊 从18年开始玩这个都腻了。后果见[刑法第253条][侵犯公民个人信息罪]
 
 [侵犯公民个人信息罪]:   https://baike.baidu.com/item/%E4%BE%B5%E7%8A%AF%E5%85%AC%E6%B0%91%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E7%BD%AA/23778083
 
-![code](https://github.com/user-attachments/assets/f80b59e2-1e5b-45da-95c0-a8eec8d80ccc)
-![code1](https://github.com/user-attachments/assets/ae9b15b1-fa6a-4502-85fd-dbd0a837e312)
+![code](https://github.com/user-attachments/assets/e6aec762-2d45-4d1b-b131-e39080a48b00)
+![code1](https://github.com/user-attachments/assets/6c148373-1101-434b-b5eb-40bb37be8bfb)
+
 
 # In the end
 想捞多少钱有多少口碑看的是实力，现在除了缝缝以前的娱乐没点创新都
