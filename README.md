@@ -41,7 +41,7 @@
 ![code4](https://github.com/user-attachments/assets/85286e0c-0a26-4c97-b3a2-737ff6b4376f)
 
 # GT
-加载list之后remove的是gtvipscript.lua你当这玩意是啥啊
+加载list之后remove的是gtvipscript.lua你当这玩意是啥啊，绕个验证我是不是还要帮你这屎山改改BUG啊
 
 ![code2](https://github.com/user-attachments/assets/697ae20b-da99-4161-864f-b7d9ec3af214)
 
