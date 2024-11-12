@@ -1,5 +1,11 @@
 > 📚 适配GT-11.05 与 daidai-12.6:1.7
 
+# 交流群
+
+交流群：957853968
+
+![QR](https://github.com/user-attachments/assets/7293e41b-9ef0-4673-8173-8342253f8524)
+
 # Stand-Lua-Scripts-Crack
 
 使用方法：
