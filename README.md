@@ -4,7 +4,7 @@
 
 交流群：957853968
 
-![QR](https://github.com/user-attachments/assets/7293e41b-9ef0-4673-8173-8342253f8524)
+![userlmn_207a24410b067661bb9e8f4ebacf0c05](https://github.com/user-attachments/assets/a5ca0ad8-7bde-482f-bd93-f1a92b854ad6)
 
 # Stand-Lua-Scripts-Crack
 
