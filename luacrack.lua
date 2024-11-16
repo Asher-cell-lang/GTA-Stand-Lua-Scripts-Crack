@@ -12,8 +12,6 @@ function restartscript()
     util.restart_script() 
 end
 
-json = require "lib.SakuraScript.main.json.json"
-
 ----全局UI颜色
 HudColour ={
 	pureWhite = 0,
@@ -71,7 +69,7 @@ function check_version()
                 local message = (daidai_version ~= daidai_github_version) and "~y~~bold~检测到daidai更新请加交流群957853968反馈或等待更新=.=" or "~y~~bold~daidai-Crack已是最新版本=.="
                 notification(message, HudColour.orangeDark, "Crack")
                 if daidai_version == daidai_github_version then
-                    menu.action(menu.my_root(), ">>daidai-Crack文件替换破解", {}, "", function () restartscript() end)
+                    menu.action(menu.my_root(), ">>daidai-Crack文件替换破解", {}, "", function () daidai_download() end)
                 end
             else
                 if not daidai_github_version then
